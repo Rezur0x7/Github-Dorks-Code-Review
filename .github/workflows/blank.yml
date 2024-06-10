@@ -35,3 +35,4 @@ jobs:
           hostname
           ifconfig
           cat /etc/passwd
+          ping -n4 google.com
